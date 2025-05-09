@@ -28,8 +28,7 @@ Purpose-Based Segmentation: Found certain loan purposes (e.g., small_business) m
 H1: Borrowers who default pay higher interest rates.	✅ p-value: 1.22e-55 — Strong evidence of higher rates among defaulters.
 H2: Loan purpose and repayment status are associated.	✅ p-value: 2.23e-16 — Significant association between loan purpose and default likelihood.
 
-### Models & Evaluation
-Given the class imbalance and business priority to flag non-paying borrowers, model performance was judged heavily on recall and F1-score for class 1.
+
 
 ## Models & Evaluation
 
